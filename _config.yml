@@ -21,9 +21,9 @@
 title: Terka island 49.3021° N, 22.4327°
 email: terkaisland@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea.
+  Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea. Biggest island in Poland.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://terkaisland.com" # the base hostname & protocol for your site, e.g. http://example.com
 fb_username: terkaisland
 twitter_username: terkaisland
 github_username: terkaisland

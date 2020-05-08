@@ -389,3 +389,17 @@ h1 a {
 	font-family: sans-serif;
 	font-weight: bold;
 }
+#social-media-list {
+	padding-top: 3em;
+	width: 60%;
+	margin: 0 auto;
+}
+#social-media-list li {
+	line-height: 2em;
+	float:left;
+
+}
+#social-media-list li a {
+	padding: 1em;
+	border: none;
+}
