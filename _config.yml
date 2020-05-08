@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Place from where water goes to +3 seas, Adriatic, Baltic, and Black sea. Biggest island in Poland.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://terkaisland.com" # the base hostname & protocol for your site, e.g. http://example.com
+http_domain: "http://terkaisland.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/logo.png"
 fb_username: terkaisland
 twitter_username: terkaisland
 github_username: terkaisland

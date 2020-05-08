@@ -394,7 +394,7 @@ header p+p {
 }
 #social-media-list {
 	padding-top: 3em;
-	width: 60%;
+	max-width: 460px;
 	margin: 0 auto;
 	font-family: sans-serif;
 }
@@ -407,4 +407,10 @@ header p+p {
 	padding: 1em;
 	border: none;
 	font-weight: bold;
+}
+#footer_logo {
+	display: block;
+	clear: both;
+	margin: 0 auto;
+	padding-top: 2em;
 }
