@@ -371,9 +371,6 @@ html {
 	color: white;
 	text-align:center;
 }
-body {
-	padding: 1em 2em;
-}
 h1,span,p {
 	padding: 1em 0;
 }
@@ -413,4 +410,14 @@ header p+p {
 	clear: both;
 	margin: 0 auto;
 	padding-top: 2em;
+}
+#footer_gallery {
+	margin-top: 2em;
+}
+#footer_gallery img {
+	float: left;
+	width:33%;
+}
+#footer_gallery img.first_in_row_3 {
+	width:34%;
 }
