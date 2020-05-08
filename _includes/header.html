@@ -1,11 +1,10 @@
-<header class="site-header">
+<header>
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
     <p>Place from where water goes to &plus;3 seas, Adriatic, Baltic, and Black sea.</p>
     <p>Biggest island in Poland.</p>
-
     <nav>
 	    <ul>
           {%- for path in page_paths -%}
