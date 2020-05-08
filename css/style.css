@@ -125,6 +125,10 @@ html {
     -ms-text-size-adjust: 100%; /* 2 */
 }
 
+body {
+	padding: 1em;
+}
+
 /**
  * Address `outline` inconsistency between Chrome and other browsers.
  */
