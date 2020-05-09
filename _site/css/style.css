@@ -375,7 +375,7 @@ html {
 	color: white;
 	text-align:center;
 }
-h1,span,p {
+span,p {
 	padding: 1em 0;
 }
 a {
@@ -391,8 +391,12 @@ h1 a {
 	font-weight: bold;
 	color:crimson;
 }
+h1 + p {
+	padding:0;
+}
 header p+p {
 	font-weight:bold;
+	font-size: 1.8em;
 }
 #social-media-list {
 	padding-top: 3em;
