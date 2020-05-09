@@ -426,10 +426,7 @@ header p+p {
 }
 #footer_gallery img {
 	float: left;
-	width:33%;
-}
-#footer_gallery img.first_in_row_3 {
-	width:34%;
+	width:33.333333%;
 }
 #footer_gallery img.first_in_row_2 {
 	width:50%;
