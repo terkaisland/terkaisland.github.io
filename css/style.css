@@ -438,4 +438,10 @@ header p+p {
 	#footer_gallery img {
 		width:100%;
 	}
+	#footer_gallery img.first_in_row_2 {
+		width:100%;
+	}
+	#footer_gallery img.first_in_row_2 + img {
+		width:100%;
+	}
 }
