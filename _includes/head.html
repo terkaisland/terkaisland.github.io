@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="http://terkaisland.com{{ page.url }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="TERKA ISLAND {{ page.title }}" />
+  <meta property="og:title" content="{{ site.title | uppercase }} {{ page.title }}" />
   <meta property="og:description" content="{{ site.description }}" />
   <meta property="og:image" content="{{ site.http_domain }}{{ site.logo }}" />
   {%- include google_analytics.html -%}
