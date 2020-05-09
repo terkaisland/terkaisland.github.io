@@ -420,28 +420,31 @@ header p+p {
 	margin: 0 auto;
 	padding-top: 2em;
 }
-#footer_gallery {
+#gallery {
 	margin-top: 2em;
 	width:100%;
 }
-#footer_gallery img {
+#gallery img {
 	float: left;
 	width:33.333333%;
 }
-#footer_gallery img.first_in_row_2 {
+#gallery img.first_in_row_2 {
 	width:50%;
 }
-#footer_gallery img.first_in_row_2 + img {
+#gallery img.first_in_row_2 + img {
 	width:50%;
+}
+#gallery img.first_in_row_2 + img + img {
+	width:100%;
 }
 @media screen and (max-width: 401px) {
-	#footer_gallery img {
+	#gallery img {
 		width:100%;
 	}
-	#footer_gallery img.first_in_row_2 {
+	#gallery img.first_in_row_2 {
 		width:100%;
 	}
-	#footer_gallery img.first_in_row_2 + img {
+	#gallery img.first_in_row_2 + img {
 		width:100%;
 	}
 }
