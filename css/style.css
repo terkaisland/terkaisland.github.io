@@ -404,6 +404,11 @@ header p+p {
 	float:left;
 
 }
+@media screen and (max-width: 401px) {
+	#social-media-list li {
+		font-size: 0.8em;
+	}
+}
 #social-media-list li a {
 	padding: 1em;
 	border: none;
@@ -425,4 +430,9 @@ header p+p {
 }
 #footer_gallery img.first_in_row {
 	width:34%;
+}
+@media screen and (max-width: 401px) {
+	#footer_gallery img {
+		width:100%;
+	}
 }
