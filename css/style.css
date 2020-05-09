@@ -428,8 +428,14 @@ header p+p {
 	float: left;
 	width:33%;
 }
-#footer_gallery img.first_in_row {
+#footer_gallery img.first_in_row_3 {
 	width:34%;
+}
+#footer_gallery img.first_in_row_2 {
+	width:50%;
+}
+#footer_gallery img.first_in_row_2 + img {
+	width:50%;
 }
 @media screen and (max-width: 401px) {
 	#footer_gallery img {
