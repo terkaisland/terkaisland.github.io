@@ -383,15 +383,22 @@ a {
 }
 h1 a {
 	border: none;
-	font-size:2em;
+	font-size:20em;
 	text-transform:uppercase;
 	font-family: Impact, 'Trebuchet MS', Arial;
 	font-weight: bold;
 	color:crimson;
 }
+h1 a span#geo {
+    font-size: 42px;
+    display: block;
+    padding-top: 0;
+    color: gainsboro;
+}
 h1 + p {
 	padding:0;
 	font-style: oblique;
+	font-size: 2em;
 }
 header p+p {
 	font-weight:bold;
