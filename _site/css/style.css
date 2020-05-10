@@ -475,3 +475,21 @@ header p+p {
 		width:100%;
 	}
 }
+a.button_gallery {
+    border: none;
+    border-radius: 1em;
+    color: white;
+    background-color: #300;
+    padding: 1em 2em;
+    font-weight: bold;
+    border-bottom: 2px solid;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+a.button_gallery:hover {
+        background-color: #300;
+        color: white;
+}
+main {
+	padding-top:2em;
+}
