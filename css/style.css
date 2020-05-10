@@ -397,10 +397,11 @@ h1 a span#geo {
 }
 @media screen and (max-width: 801px) {
 	h1 a {
-		font-size:7em;
+		font-size:6.54em;
 	}
 	h1 a span#geo {
 		font-size:38px;
+		padding-bottom:0.25em;
 	}
 }
 h1 + p {
@@ -413,6 +414,11 @@ h1 + p {
 header p+p {
 	font-weight:bold;
 	font-size: 2.8em;
+}
+@media screen and (max-width: 801px) {
+	header p+p {
+		padding-top:0.25em;
+	}
 }
 #social-media-list {
 	padding-top: 3em;
