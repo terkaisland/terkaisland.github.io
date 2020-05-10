@@ -39,6 +39,16 @@ sass:
     sass_dir: css
     style: compressed
 
+compress_html:
+  clippings: false
+  comments: true
+  endings: false
+  ignore:
+    envs: false
+  blanklines: false
+  profile: false
+  startings: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
