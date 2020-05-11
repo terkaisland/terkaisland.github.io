@@ -39,7 +39,7 @@ sass:
     sass_dir: css
     style: compressed
 
-google_analytics: UA-4271142-2
+google_analytics: G-3JZBYJRLT7
 
 compress_html:
   clippings: false
