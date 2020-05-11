@@ -39,6 +39,8 @@ sass:
     sass_dir: css
     style: compressed
 
+google_analytics: UA-4271142-2
+
 compress_html:
   clippings: false
   comments: true
