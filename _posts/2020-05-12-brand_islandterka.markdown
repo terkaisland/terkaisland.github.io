@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ISLANDTERKA
-category: news
+category: brands
+permalink: /brand/ISLANDTERKA
 ---
 ## Work in progress

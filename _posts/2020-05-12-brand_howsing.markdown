@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HOWSING
-category: news
+category: brands
+permalink: /brand/HOWSING
 ---
 ## Work in progress
