@@ -492,5 +492,23 @@ a.button_gallery:hover {
         color: white;
 }
 main {
-	padding-top:2em;
+	padding: 5em 0 5em 0;
+	clear: both;
+	width: 100%;
+	float: left;
+}
+#brand-list li {
+	float: left;
+	width: 25%;
+	height:70px;
+}
+@media screen and (max-width: 574px) {
+	#brand-list li {
+		width:50%;
+	}
+}
+@media screen and (max-width: 360px) {
+	#brand-list li {
+		width:100%;
+	}
 }
