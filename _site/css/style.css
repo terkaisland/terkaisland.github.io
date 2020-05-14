@@ -383,7 +383,7 @@ a {
 }
 h1 a {
 	border: none;
-	font-size:20em;
+	font-size:18em;
 	text-transform:uppercase;
 	font-family: Impact, 'Titillium Web', sans-serif;
 	font-weight: bold;
@@ -411,6 +411,7 @@ h1 + p {
 	font-style: oblique;
 	font-weight: bold;
 	color: gold;
+	font-size:1.9em;
 }
 header p+p {
 	font-weight:bold;
