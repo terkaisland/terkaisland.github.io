@@ -501,7 +501,16 @@ main {
 #brand-list li {
 	float: left;
 	width: 25%;
-	height:70px;
+	padding-bottom:1em;
+}
+#brand-list li a {
+	font-size: 2.4em;
+	font-weight: bold;
+}
+@media screen and (max-width: 1545px) {
+	#brand-list li a {
+		font-size:1em;
+	}
 }
 @media screen and (max-width: 574px) {
 	#brand-list li {
