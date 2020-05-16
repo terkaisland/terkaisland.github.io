@@ -491,6 +491,9 @@ a.button_gallery {
     text-decoration: none;
     font-family: sans-serif;
 }
+h2 {
+	margin-top:2em;
+}
 a.button_gallery:hover {
         background-color: #300;
         color: white;
@@ -530,7 +533,7 @@ main {
      font-size: 1.8em;
      font-family: sans-serif;
      font-weight: bold;
-     color: brown;
+     color: crimson;
      border-bottom:none;
 }
 .applepaycom strong {
