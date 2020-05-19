@@ -396,6 +396,8 @@ h1 a {
 	font-weight: bold;
 	color:crimson;
 	line-height:0.8em;
+	padding-bottom: 0.25em;
+	display: block;
 }
 h1 a span#geo {
     font-size: 42px;
