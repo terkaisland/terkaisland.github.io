@@ -548,4 +548,6 @@ main {
      display:block;
      font-size:0.5em;
 }
-
+img.terkaisland_view {
+	width:100%;
+}
