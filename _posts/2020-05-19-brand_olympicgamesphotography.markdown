@@ -2,6 +2,6 @@
 layout: page
 title: OLYMPIC GAMES PHOTHOGRAPHY
 category: brands
-permalink: /brand/OLYMPIC GAMES PHOTHOGRAPHY
+permalink: /brand/OLYMPICGAMESPHOTHOGRAPHY
 ---
 ## Work in progress
