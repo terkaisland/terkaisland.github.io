@@ -405,6 +405,16 @@ h1 a span#geo {
     color: gainsboro;
     line-height:1em;
 }
+main p img {
+	float:left;
+}
+main p img + img {
+	float: left;
+	width: 43%;
+	padding-right: 20%;
+	padding-bottom: 2em;
+}
+
 @media screen and (max-width: 801px) {
 	h1 a {
 		font-size:6.54em;
