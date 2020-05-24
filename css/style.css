@@ -527,6 +527,8 @@ main {
     height: 13em;
     background-color: crimson;
     margin: 1em 1px;
+	background-image: url(https://regularlighter.com/assets/images/html_bgr_img.jpg);
+	background-repeat: no-repeat;
 }
 #brand-list li a {
 	font-size: 2.4em;
