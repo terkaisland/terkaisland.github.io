@@ -6,4 +6,4 @@ permalink: /brand/WEDDINGWEEDSUPPLY
 ---
 ## Work in progress
 ### Key features
-- 100% guaranted deliver on time
+- 100% guaranted delivery on time
